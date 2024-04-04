@@ -538,16 +538,20 @@ img {
   letter-spacing: 0.02em;
   color: #fff;
 }
-.footer-feedback {
+
+/* .footer-feedback {
   display: flex;
   align-items: center;
   justify-content: space-between;
   margin-left: 80px;
-}
+} */
 
 .feedback-form {
   display: flex;
-  gap: 24px;
+  align-items: center;
+  justify-content: space-between;
+  /* gap: 24px; */
+  margin-left: 80px;
 }
 
 .feedback-lable {
